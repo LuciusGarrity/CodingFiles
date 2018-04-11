@@ -1,0 +1,2 @@
+Move mouse to aim
+Left Click to Shoot
